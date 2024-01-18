@@ -1,0 +1,17 @@
+.gradient{
+    background: rgb(232,232,232);
+background: linear-gradient(180deg, rgba(232,232,232,1) 0%, rgba(248,248,248,1) 100%);
+width: 33px;
+height: 33px;
+display: flex;
+justify-content: center;
+align-items: center;
+}
+.login{
+    text-decoration: underline;
+    text-align: center;
+    cursor: pointer;
+}
+.login:hover{
+ text-decoration: none;
+}
